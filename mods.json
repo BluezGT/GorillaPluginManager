@@ -9,54 +9,275 @@
          "group" : "Core"
       },
       {
-         "name" : "Gorilla Cosmetics",
+         "name" : "WhoIsTalking",
          "tag" : "",
-         "gitPath" : "legoandmars/GorillaCosmetics",
+         "gitPath" : "The-Graze/WhoIsTalking",
          "releaseId" : 0,
-         "author" : "Bobbie",
+         "author" : "The-Graze",
+         "group" : "Gameplay",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "Banana OS",
+         "tag" : "",
+         "gitPath" : "HuskyGT/Banana-OS",
+         "releaseId" : 0,
+         "author" : "HuskyGT",
+         "group" : "Gameplay",
+         "dependencies" : [
+          "Utilla"
+         ]
+      },
+      {
+         "name" : "Grate (Bark Fix)",
+         "tag" : "",
+         "gitPath" : "The-Graze/Grate",
+         "releaseId" : 0,
+         "author" : "The-Graze",
+         "group" : "Gameplay",
+         "dependencies" : [
+          "Newtonsoft.JSON",
+"Utilla"
+         ]
+      },
+      {
+         "name" : "Blink2",
+         "tag" : "",
+         "gitPath" : "The-Graze/Blink2",
+         "releaseId" : 0,
+         "author" : "The-Graze",
          "group" : "Cosmetic",
          "dependencies" : [
           "Newtonsoft.JSON"
          ]
       },
       {
-         "name" : "Monke Map Loader",
+         "name" : "Gorilla-Homes",
          "tag" : "",
-         "gitPath" : "Vadix88/MonkeMapLoader",
+         "gitPath" : "wryser/Gorilla-Homes",
          "releaseId" : 0,
-         "author" : "Vadix",
-         "group" : "Gameplay",
+         "author" : "wryser",
+         "group" : "Cosmetic",
          "dependencies" : [
-          "Newtonsoft.JSON",
-          "Utilla",
-          "Computer Interface"
+          "Newtonsoft.JSON"
          ]
       },
       {
-         "name" : "Space Monke",
+         "name" : "Gorilla Shirts",
          "tag" : "",
-         "gitPath" : "legoandmars/SpaceMonke",
+         "gitPath" : "developer9998/GorillaShirts",
          "releaseId" : 0,
-         "author" : "Bobbie",
+         "author" : "Dev9998",
+         "group" : "Cosmetic",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "leaderboard-colors",
+         "tag" : "",
+         "gitPath" : "Striker-67/leaderboard-colors",
+         "releaseId" : 0,
+         "author" : "Striker-67",
+         "group" : "Cosmetic",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "Computer Backgrounds",
+         "tag" : "",
+         "gitPath" : "Striker-67/computer-backgrounds",
+         "releaseId" : 0,
+         "author" : "Striker-67",
+         "group" : "Cosmetic",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "FarClipPlane",
+         "tag" : "",
+         "gitPath" : "BrokenSt0ne/FarClipPlane",
+         "releaseId" : 0,
+         "author" : "BrokenSt0ne",
+         "group" : "Tweaks / Tools",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "Gorilla-Discord-RPC",
+         "tag" : "",
+         "gitPath" : "Chin0303/Gorilla-Discord-RPC",
+         "releaseId" : 0,
+         "author" : "Chin0303",
+         "group" : "Tweaks / Tools",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "OculusReportMenu",
+         "tag" : "",
+         "gitPath" : "oatsalmon/OculusReportMenu",
+         "releaseId" : 0,
+         "author" : "oatsalmon",
+         "group" : "Tweaks / Tools",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "TpHome",
+         "tag" : "",
+         "gitPath" : "RushKiller001/TpHome",
+         "releaseId" : 0,
+         "author" : "RushKiller001",
+         "group" : "Tweaks / Tools",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "BetterMirror",
+         "tag" : "",
+         "gitPath" : "The-Graze/BetterMirror",
+         "releaseId" : 0,
+         "author" : "The-Graze",
+         "group" : "Cosmetic",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "Bedroom Mod",
+         "tag" : "",
+         "gitPath" : "The-Graze/Bedroom-Mod",
+         "releaseId" : 0,
+         "author" : "The-Graze",
+         "group" : "Cosmetic",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+   {
+         "name" : "BoardFixer",
+         "tag" : "",
+         "gitPath" : "The-Graze/BoardFixer",
+         "releaseId" : 0,
+         "author" : "The-Graze",
+         "group" : "Tweaks / Tools",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "BibleBoard",
+         "tag" : "",
+         "gitPath" : "russalexei38864/BibleBoard",
+         "releaseId" : 0,
+         "author" : "russalexei38864",
          "group" : "Gameplay",
          "dependencies" : [
-           "Utilla"
-          ]
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "GorillaPeace",
+         "tag" : "",
+         "gitPath" : "tyy-8/GorillaPeace",
+         "releaseId" : 0,
+         "author" : "tyy-8",
+         "group" : "Gameplay",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "Devs Camera Mod CGT",
+         "tag" : "",
+         "gitPath" : "Bluezgtag/DevsCameraModCGT",
+         "releaseId" : 0,
+         "author" : "Dev9998",
+         "group" : "Casting",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "Devs Camera Mod PGT",
+         "tag" : "",
+         "gitPath" : "Bluezgtag/DevsCameraModPGT",
+         "releaseId" : 0,
+         "author" : "Dev9998",
+         "group" : "Casting",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "Devs Camera Mod NoTimer",
+         "tag" : "",
+         "gitPath" : "Bluezgtag/DevsCameraMod-No-Timer",
+         "releaseId" : 0,
+         "author" : "Dev9998",
+         "group" : "Casting",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+       {
+         "name" : "BrokenSt0ne/FarClipPlane",
+         "tag" : "",
+         "gitPath" : "Striker-67/computer-backgrounds",
+         "releaseId" : 0,
+         "author" : "Striker-67",
+         "group" : "Tweaks / Tools",
+         "dependencies" : [
+          "Newtonsoft.JSON"
+         ]
+      },
+      {
+         "name" : "BlobTags",
+         "tag" : "",
+         "gitPath" : "BluezGT/BlobTags",
+         "releaseId" : 0,
+         "author" : "BluezGtag",
+         "group" : "Gameplay",
+         "dependencies" : [
+          "Newtonsoft.JSON",
+            "Utilla"
+         ]
+      },
+      {
+         "name" : "Monke Dimensions",
+         "tag" : "",
+         "gitPath" : "Chin0303/Monke-Dimensions",
+         "releaseId" : 0,
+         "author" : "Chin",
+         "group" : "Gameplay",
+         "dependencies" : [
+          "Newtonsoft.JSON",
+          "Utilla"
+         ]
       },
       {
          "name" : "Utilla",
          "tag" : "",
-         "gitPath" : "legoandmars/Utilla",
+         "gitPath" : "Bluezgtag/Utilla",
          "releaseId" : 0,
-         "author" : "Bobbie",
+         "author" : "Dev9998",
          "group" : "Libraries"
       },
       {
-        "name" : "Computer Interface",
+        "name" : "Gorilla Computer",
         "tag" : "",
-        "gitPath" : "ToniMacaroni/ComputerInterface",
+        "gitPath" : "BluezGT/GorillaComputer",
         "releaseId": 0,
-        "author" : "Toni Macaroni",
+        "author" : "Dev9998",
         "group" : "Libraries",
         "dependencies" : [
           "Bepinject"
@@ -94,20 +315,28 @@
    ],
    "groups" : [
      {
-       "name" : "Core",
-       "rank" : 0
-     },
-     {
-       "name" : "Cosmetic",
-       "rank" : 1
-     },
-     {
-       "name" : "Gameplay",
-       "rank" : 2
-     },
-     {
-       "name" : "Libraries",
-       "rank" : 3
-     }
+    "name" : "Core",
+    "rank" : 0
+  },
+  {
+    "name" : "Cosmetic",
+    "rank" : 1
+  },
+  {
+    "name" : "Gameplay",
+    "rank" : 2
+  },
+  {
+    "name" : "Casting",
+    "rank" : 3
+  },
+  {
+    "name" : "Tweaks / Tools",
+    "rank" : 4
+  },
+  {
+    "name" : "Libraries",
+    "rank" : 5
+  }
    ]
 }
